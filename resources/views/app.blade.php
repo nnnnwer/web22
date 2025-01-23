@@ -7,7 +7,7 @@
     @vite('resources/css/app.css')
 </head>
 <body>
- <h1>hello Laravel</h1>
+ <h1>hello Laravel</h1> <h2> my app v1</h2>
 
  <hr>
 
